@@ -5,7 +5,7 @@
 ### Bikeshare Data Analysis
 
 ### Description
-Analyze data from one of three cities: Chicago, New York City, or Washington DC.
+Analyze bikeshare data from one of three cities: Chicago, New York City, or Washington DC.
 
 ### Files used
 chicago.csv
