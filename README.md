@@ -8,9 +8,7 @@
 Analyze data from one of three cities: Chicago, New York City, or Washington DC.
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 https://github.com/udacity/pdsnd_github
